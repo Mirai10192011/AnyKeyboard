@@ -38,9 +38,17 @@ Example concept:
 
 ## Speed Writing Utility
 
-AnyKeyboard also provides a speed writing utility for all supported languages.
-This is designed to reduce friction and help you write faster, especially when
-typing unfamiliar scripts or characters.
+AnyKeyboard includes a built-in typing speed test that works across all supported
+languages and layouts.
+
+Users can:
+- Practice typing using random sentences
+- Track typing speed in WPM (words per minute)
+- Measure real-time accuracy
+- Practice in their chosen language or layout
+
+This makes AnyKeyboard useful not only for typing text, but also for improving
+typing speed and accuracy in foreign languages.
 
 ---
 
