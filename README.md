@@ -1,9 +1,9 @@
-# AnyKeyboard.io 
+# AnyKeyboard.io ⌨️![anykeyboard]
 
 
 **Type in any language. Instantly. No installs.**
 
-⌨️![anykeyboard](https://github.com/user-attachments/assets/154be5bd-df84-43e2-af4b-4f8fe9853918)
+(https://github.com/user-attachments/assets/154be5bd-df84-43e2-af4b-4f8fe9853918)
 
 AnyKeyboard.io is a fast, browser-based virtual keyboard that lets you type in **100+ languages and layouts** directly from your browser. No downloads, no extensions, no OS changes.
 
