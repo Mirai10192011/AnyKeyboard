@@ -54,6 +54,19 @@ Currently, an internet connection is required.
 
 ## Is this safe to use?
 
+## Does AnyKeyboard include a typing speed test?
+
+Yes. AnyKeyboard includes a built-in typing speed test with real-time WPM and
+accuracy tracking, available across 100+ languages.
+
+---
+
+## Can I practice typing in foreign languages?
+
+Yes. You can practice typing using real keyboard layouts and random sentences
+in many languages.
+
+
 Yes. All typing happens client-side in your browser.
 
 Try it here:
