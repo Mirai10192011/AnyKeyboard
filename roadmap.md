@@ -10,8 +10,9 @@ This roadmap outlines planned and potential improvements.
 - 100+ language layouts
 - Mobile-friendly UI
 - Language-specific pages
-- Speed writing utility (all languages)
-- Phonetic typing (major languages)
+- Typing speed test with real-time WPM & accuracy
+- Random sentence typing practice
+- Phonetic typing for major languages
 
 ---
 
