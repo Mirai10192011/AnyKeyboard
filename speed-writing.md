@@ -1,43 +1,41 @@
-# Speed Writing Utility
+# Typing Speed Test
 
-AnyKeyboard includes a speed writing utility designed to help users type faster
-across all supported languages and keyboard layouts.
+AnyKeyboard includes a multilingual typing speed test designed to help users
+practice and improve their typing skills across 100+ languages.
 
-This is especially useful when:
-- You’re typing in a language you don’t use daily
-- You need special characters frequently
-- You’re learning a new script and want to stay fluent
-- You’re writing long text and want fewer interruptions
+Unlike traditional typing tests that focus only on English, AnyKeyboard allows
+you to test your typing speed using real keyboard layouts in many languages.
 
 ---
 
-## What It Is
+## Features
 
-The speed writing utility is a set of writing helpers built into AnyKeyboard
-to make multilingual typing smoother and faster.
-
-Depending on your workflow, it helps reduce:
-- Repetitive typing
-- Switching between tools
-- Copy/paste friction
-- Character hunting
+- Real-time WPM (words per minute) tracking
+- Accuracy percentage tracking
+- Random sentence generation
+- Works with 100+ language layouts
+- Browser-based (no installation required)
 
 ---
 
-## Who Benefits Most?
+## Who Is It For?
 
 - Language learners practicing writing
-- People writing multilingual emails or content
-- Students and researchers
-- Customer support teams working internationally
-- Translators and editors
+- Users improving typing speed in non-native languages
+- Students and educators
+- Multilingual professionals
+- Anyone curious about their typing speed
 
 ---
 
-## Tip
+## Practice Across Languages
 
-If you type in multiple languages often, you’ll get the most benefit by
-bookmarking your most-used layouts and using the same tool consistently.
+You can run the typing speed test using:
+- Latin-based languages
+- Non-Latin scripts
+- Phonetic typing (for supported languages)
 
-Try it:
-[https://anykeyboard.io](https://anykeyboard.io/en/online-typing-test)
+This helps users build confidence and fluency in real typing scenarios.
+
+Try the typing speed test here:
+https://anykeyboard.io
