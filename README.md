@@ -4,14 +4,17 @@
 
 ![anykeyboard](https://github.com/user-attachments/assets/154be5bd-df84-43e2-af4b-4f8fe9853918)
 
-AnyKeyboard.io is a fast, browser-based virtual keyboard that lets you type in **100+ languages and layouts** directly from your browser. No downloads, no extensions, no OS changes.
-
 This documentation explains how AnyKeyboard.io works, what languages it supports,
-its speed writing tools, phonetic typing, and the project’s privacy principles.
+and how users can type, practice, and test their typing speed across 100+ languages.
 
-AnyKeyboard is a browser-based virtual keyboard that lets you type in 100+ languages
-and layouts instantly — without installing anything. It also includes a speed writing
-utility to help you type faster across languages, and phonetic typing for major languages.
+AnyKeyboard is a browser-based virtual keyboard and typing practice platform that lets
+you type in 100+ languages instantly — without installing anything.
+
+It also includes:
+- A multilingual typing speed test
+- Real-time WPM and accuracy tracking
+- Random sentence practice
+- Phonetic typing for major languages
 
 👉 Live app: https://anykeyboard.io  
 👉 GitHub repository: https://github.com/alynius/AnyKeyboard
